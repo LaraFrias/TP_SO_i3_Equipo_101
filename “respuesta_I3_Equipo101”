@@ -1,0 +1,17 @@
+Lara Frias - Agustina Gonzalez Oviedo - Juan Castro
+
+a- El main queda de la siguiente manera:
+Beta.txt
+CPUAlfa.txt
+CPUBeta.txt
+CPUGamma.txt
+Datos.txt
+README.md
+
+b- Si, puedo observar todos los cambios realizados por ALFA y GAMMA
+
+c- Utilce los siguientes comandos:
+git switch main
+git pull origin main
+git merge origin/castro
+git push origin main
