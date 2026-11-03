@@ -56,4 +56,38 @@ Adaptador de Ethernet Ethernet:
    Máscara de subred . . . . . . . . . . . . : 255.255.255.0
    Puerta de enlace predeterminada . . . . . : 192.168.0.1
 
+Agustina Gonzalez Oviedo
+16:37
+ipconfig:Configuración IP de Windows
+
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS específico para la conexión. . :
+   Dirección IPv6 . . . . . . . . . . : 2802:8010:7010:6e01:5f8f:593c:dfe0:1c8b
+   Dirección IPv6 temporal. . . . . . : 2802:8010:7010:6e01:90ca:759b:5b7c:d52d
+   Vínculo: dirección IPv6 local. . . : fe80::c769:c10b:c730:18d1%5
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.1.41
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::a697:33ff:fe55:b3e0%5
+                                       192.168.1.1
+
+Adaptador de Ethernet Ethernet 2:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::234b:2bd3:9ec7:e0c1%8
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+Adaptador de Ethernet Conexión de red Bluetooth 7:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+
+
+
+
+
 
