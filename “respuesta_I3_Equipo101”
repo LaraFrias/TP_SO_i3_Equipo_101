@@ -10,7 +10,7 @@ README.md
 
 b- Si, puedo observar todos los cambios realizados por ALFA y GAMMA
 
-c- Utilce los siguientes comandos:
+c- Utilice los siguientes comandos (punto 5):
 git switch main
 git pull origin main
 git merge origin/castro
@@ -20,4 +20,21 @@ d- si siempre que se realice correctamente.
 
 e- No tuvimos conflictos para realizar el merge.
 
-f- git fetch - git checkout - git pull - git push origin main - ipconfig - git add beta.txt - git commit -m 
+f- Utilice los siguientes comandos (punto 7): 
+git fetch
+git checkout
+git pull
+git push origin main
+ipconfig
+git add beta.txt
+git commit -m 
+
+g- Utilice los siguientes comandos (punto 8):
+git fetch origin
+git checkout Frias
+git pull origin Frias
+ipconfig
+notepad Beta.txt
+git add Beta.txt
+git commit -m "Alfa agrega datos"
+git push origin Frias
