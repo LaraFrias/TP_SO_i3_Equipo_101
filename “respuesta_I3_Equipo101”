@@ -15,3 +15,9 @@ git switch main
 git pull origin main
 git merge origin/castro
 git push origin main
+
+d- si siempre que se realice correctamente.
+
+e- No tuvimos conflictos para realizar el merge.
+
+f- git fetch - git checkout - git pull - git push origin main - ipconfig - git add beta.txt - git commit -m 
